@@ -5,7 +5,7 @@
 ## Apartado Personal
 **Dirección:** San Clemente S/N. 15000. Santiago de Compostela
 
-**Número:** 987 65 43 21
+**Número:** 987 65 43 21 
 
 **Correo:** a23nombre@iessanclemente.net
 ## Estudios
