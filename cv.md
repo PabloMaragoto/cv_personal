@@ -26,3 +26,6 @@
 - Kotlin
 - Java
 - C#
+
+## Ejemplo de código
+[![Portátil con código](img/laptop-2620118_640.jpg)](./muestra.md)
