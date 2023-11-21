@@ -1,5 +1,5 @@
 # Pablo Maragoto Díaz
-![retrato del usuario](.\img/profile_picture.jpg) 
+![retrato del usuario](img/profile_picture.jpg) 
 
 ---
 ## Apartado Personal
